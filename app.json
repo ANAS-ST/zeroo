@@ -1,8 +1,8 @@
 {
-    "name": "zero",
-    "description": "zero",
+    "name": "test",
+    "description": "test",
     "keywords": [],
-    "repository": "https://github.com/ANAS-ST/zero",
+    "repository": "https://github.com/ANAS-ST/zeroo",
     "env": {},
     "stack": "heroku-20",
     "formation": {
